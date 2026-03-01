@@ -1,5 +1,5 @@
 # CNN
-The goal of this task is to walk you through how to:
+The goal of this task is:
 
 Build a Convolutional Neural Network (CNN) from scratch to detect emotion in facial images (Problem 1 and 2)
 Use data augmentation to increase the size of your training data (Problem 3)
