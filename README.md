@@ -1,4 +1,4 @@
-# CNN
+EMOTION DETECTION with CNN
 The goal of this task is:
 
 Build a Convolutional Neural Network (CNN) from scratch to detect emotion in facial images (Problem 1 and 2),
